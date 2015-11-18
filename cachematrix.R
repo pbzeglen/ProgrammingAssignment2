@@ -1,6 +1,6 @@
 ## These two functions together take a matrix and give its inverse,
-## While caching that inverse for later. If asked for the inverse of a matix
-## that has already been solved, it returns the chached solution.
+## While caching that inverse for later. If asked for the inverse of a matrix
+## that has already been solved, it returns the cached solution.
 
 ## makeCacheMatrix takes the matrix given, and caches two variables
 ## x, the matrix, and y, the solution.
